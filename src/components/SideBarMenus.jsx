@@ -28,8 +28,8 @@ const SideBarMenus = () => {
 
                 <Accordion sx={{ backgroundColor: "rgb(0 0 0 / 0.45)", padding: "0px 0px", paddingLeft: "16px", color: "white", display: "block" }}>
                     <AccordionSummary
-                        // sx={{padding:"0px 0px"}}
-                        expandIcon={<ArrowDropDownIcon sx={{ color: "white", display: "block" }} />}
+                        sx={{padding:"0px 0px"}}
+                        expandIcon={<ArrowDropDownIcon sx={{ color: "white" }} />}
                         aria-controls="panel1-content"
                         id="panel1-header"
                     >

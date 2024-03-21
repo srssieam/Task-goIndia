@@ -42,7 +42,7 @@ const MainLayout = ({ children }) => {
         <div className={`transition-all duration-200 ease-out  -ml-[210px] md:-ml-[250px]  ${open ? "xl:-ml-0" : "xl:-ml-[250px]"}`}>
 
           {/* drawer toggle button */}
-          <button onClick={() => setOpen(!open)} className='absolute top-[50%] bottom-[50%] -translate-y-[50%] h-24 w-6 bg-blue-950 text-white'>
+          <button onClick={() => setOpen(!open)} className='fixed top-[50%] bottom-[50%] -translate-y-[50%] h-24 w-6 bg-blue-950 text-white'>
             <ArrowRightIcon className='text-3xl' />
           </button>
 

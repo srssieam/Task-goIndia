@@ -1,0 +1,76 @@
+{
+    "discussionForum" : [
+        {
+          "name": "Jane Smith",
+          "image": "",
+          "title": "Tech Giant XYZ Unveils Plans for AI-Powered Autonomous Vehicles",
+          "watchlist": 18000,
+          "view": 12000,
+          "comments": 8000,
+          "postedOn": "2024-03-19T19:45:32.890Z"
+        },
+        {
+          "name": "Michael Johnson",
+          "image": "",
+          "title": "Global Pharmaceutical Company Reports Breakthrough in Cancer Treatment Research",
+          "watchlist": 2500,
+          "view": 20000,
+          "comments": 15000,
+          "postedOn": "2024-03-20T14:30:10.567Z"
+        },
+        {
+          "name": "Sarah Chen",
+          "image": "",
+          "title": "Renewable Energy Startup Secures $50 Million Investment for Expansion",
+          "watchlist": 15000,
+          "view": 10000,
+          "comments": 5000,
+          "postedOn": "2024-03-19T19:45:32.890Z"
+        },
+        {
+          "name": "David Lee",
+          "image": "",
+          "title": "New Study Shows Positive Impact of Meditation on Mental Health",
+          "watchlist": 22000,
+          "view": 17000,
+          "comments": 12000,
+          "postedOn": "2024-03-18T10:20:55.321Z"
+        },
+        {
+          "name": "Emily Davis",
+          "image": "",
+          "title": "Fashion Retailer XZY Launches Sustainable Clothing Line",
+          "watchlist": 19000,
+          "view": 13000,
+          "comments": 9000,
+          "postedOn": "2024-03-17T16:55:40.987Z"
+        }
+      ],
+      "marketStories" :[
+        {
+          "title": "Profit Drivers Are Stacking Up..",
+          "image": "",
+          "details": "Recent market analysis indicates that several key profit drivers, including increased consumer demand and cost-saving measures, are aligning favorably for businesses. Companies are leveraging these opportunities to maximize profitability and gain a competitive edge."
+        },
+        {
+          "title": "New Product Line Announcement",
+          "image": "",
+          "details": "The company has announced the launch of an innovative product line designed to meet evolving customer needs. With a focus on sustainability and performance, these new products are expected to drive growth and capture market share in targeted segments."
+        },
+        {
+          "title": "Expansion Plans Unveiled",
+          "image": "",
+          "details": "In response to growing demand and emerging market opportunities, the organization has revealed ambitious expansion plans. These include new store openings, strategic partnerships, and investments in infrastructure to support future growth initiatives."
+        },
+        {
+          "title": "Technology Breakthrough Revealed",
+          "image": "",
+          "details": "Researchers have announced a groundbreaking advancement in technology that promises to revolutionize various industries. This innovation offers enhanced efficiency, scalability, and cost-effectiveness, opening up new possibilities for businesses and consumers alike."
+        },
+        {
+          "title": "Investment Opportunities on the Rise",
+          "image": "",
+          "details": "With economic indicators pointing towards growth and stability, investors are increasingly optimistic about the opportunities available in the market. From emerging sectors to established industries, there is a wide range of investment options attracting attention and capital."
+        }
+      ]      
+}
