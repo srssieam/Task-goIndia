@@ -4,7 +4,8 @@
 
 
 ### First, Clone the repo
-### Second, run the development server
+### Second, npm install
+### Third, run the development server
 
 ```bash
 npm run dev
