@@ -1,7 +1,7 @@
 "use client"
 import Image from 'next/image';
 import React, { useEffect, useState } from 'react';
-import storyImg from "@/assets/story.JPG"
+import storyImg from "@/assets/story.jpg"
 
 const MarketStories = () => {
     const [marketData, setMarketData] = useState({});
