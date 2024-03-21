@@ -32,7 +32,7 @@ const MainLayout = ({ children }) => {
         {/* drawer menus */}
         <SideBarMenus></SideBarMenus>
 
-        <button onClick={() => setOpen(!open)} className='xl:hidden absolute top-[50%] bottom-[50%] right-0 -translate-y-[50%] h-24 w-6 bg-blue-950 text-white'>
+        <button onClick={() => setOpen(!open)} className='xl:hidden absolute top-[50%] bottom-[50%] right-0 border-l border-t border-b -translate-y-[50%] h-24 w-6 bg-blue-950 text-white'>
           <ArrowRightIcon className='text-3xl' />
         </button>
       </Drawer>

@@ -50,11 +50,11 @@ const DiscussionForum = () => {
     }
 
     return (
-        <div className="w-3/4 space-y-5">
-            <button className="text-2xl text-red-700 font-semibold uppercase px-6 py-4 rounded-md bg-gray-300">
+        <div>
+            <button className="text-lg lg:text-xl xl:text-2xl text-red-700 font-semibold uppercase px-4 xl:px-6 py-2 xl:py-4 rounded-md bg-gray-300">
                 Discussion Forum
             </button>
-            <div>
+            <div className='flex flex-col gap-7 mt-6'>
                 {
                     marketData.discussionForum?.map((data, idx) => (
                         <div key={idx} className="p-5 rounded-xl shadow-lg flex gap-3">
