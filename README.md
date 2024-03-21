@@ -3,8 +3,8 @@
 ## Getting Started
 
 
-##First, Clone the repo
-##Second, run the development server
+### First, Clone the repo
+### Second, run the development server
 
 ```bash
 npm run dev
